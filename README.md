@@ -1,7 +1,7 @@
 # Projects
 Any questions about these projects can be addressed by myself at sebastian.braun@blackburn.edu
 
-CS491-Senior-Seminar-POC-master : JavaScript Game with Client/Server
+cs491-Senior-Seminar-POC-master : JavaScript Game with Client/Server
 
 cs313 : Java List sorting and Unit Testing
 
